@@ -1,0 +1,3 @@
+# Everything is blocked using noindex; noindexed pages must be allowed to be recognized as explicitly disallow index.
+User-agent: *
+Allow: /

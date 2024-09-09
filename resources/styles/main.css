@@ -1,23 +1,18 @@
 body {
-	background-color: dimgray;
-	color: aliceblue;
+	background-color: #EBEBEB;
+	color: rgb(58, 58, 58);
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 a:link {
-	color: deepskyblue;
-	text-decoration: none;
+	color: #333FA3;
+	text-decoration: underline;
 }
 a:visited {
-	color: cornflowerblue;
-	text-decoration: none;
-}
-a:hover {
-	text-decoration: underline;
+	color: #712F83;
 }
 a:active {
-	color: gold;
-	text-decoration: underline;
+	color: #262E78;
 }
 
 .center {
